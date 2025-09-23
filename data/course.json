@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f",
+      "177bc5f7-fe92-871d-20a4-0d68f78d1020"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "828d9cbb-c71a-42a4-9683-7a46e71b4d3f",
+    "website": "data-analysis-for-social-scientists"
+  },
+  "course_title": "Data Analysis for Social Scientists",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course introduces methods for harnessing data to answer questions of\u00a0cultural, social, economic, and policy interest. We will start with essential\u00a0notions of probability and statistics. We will proceed to cover techniques in\u00a0modern data analysis: regression and econometrics, design of experiments, randomized control trials (and A/B testing), machine learning, and data visualization.\n\nWe will illustrate these concepts with applications drawn from real-world examples and frontier research. Finally, we will provide instruction on\u00a0the use of the statistical package R, and opportunities for students to perform self-directed empirical analyses.\n\n**MITx Online**\n\nThis course draws materials from *14.310x Data Analysis for Social Scientists*, which is part of the MicroMasters Program in Data, Economics, and Design of Policy offered by MITx Online. The MITx Online course is entirely free to audit, though learners have the option to pay a fee, which is based on the learner\u2019s ability to pay, to take the proctored exam and earn a course certificate. To access that course, create an MITx Online account and enroll in the course {{% resource_link \"7c7bd688-8fa5-4316-8c05-ea0e11667acd\" \"14.310x Data Analysis for Social Scientists\" %}}.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.310x",
+  "course_image_thumbnail": {
+    "content": "0b6ded66-cb3b-481d-a0be-516a8141e22c",
+    "website": "data-analysis-for-social-scientists"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets",
+    "Podcasts"
+  ],
+  "site_uid": "52fee8d6-6661-43c3-be67-447e86289c42",
+  "site_short_id": "14.310x-spring-2023",
+  "site_url_path": "courses/14-310x-data-analysis-for-social-scientists-spring-2023"
+}
