@@ -5,6 +5,8 @@ draft: false
 file: /courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_week07_lec15.pdf
 file_size: 402013
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
