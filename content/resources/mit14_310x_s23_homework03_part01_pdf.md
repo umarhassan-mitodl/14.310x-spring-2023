@@ -5,8 +5,6 @@ draft: false
 file: /courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_homework03_part01.pdf
 file_size: 277806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

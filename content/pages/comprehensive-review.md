@@ -60,13 +60,13 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 ### Question 7
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, \\(S\\), distance of prison from hometown, \\(D\\), and sex of offender, (\\(M\\) =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that \\(S\\) follows a uniform distribution \\(U(1,15)\\); \\(D\\) follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, \\(S\\), distance of prison from hometown, \\(D\\), and sex of offender, (\\(M\\) =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* {{% resource_link "b0362a56-157f-40c1-a525-dc21f0542e67" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)" %}}Suppose also that \\(S\\) follows a uniform distribution \\(U(1,15)\\); \\(D\\) follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
 ## Long Question 2—Prof. Ellison's Commute
 
-Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a \\(\mathcal{N}(20,9)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(20%2C9)#0) (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and \\(\mathcal{N}(12,4)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(12%2C4)#0) (where 12 is the average commute and 4 is the variance) on other days.
+Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a \\(\mathcal{N}(20,9)\\){{% resource_link "8ee472ff-635b-469c-a3e5-3bff8f735f34" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)" %}} (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and \\(\mathcal{N}(12,4)\\){{% resource_link "6ac239e0-4212-45ac-8bf5-82a81687c877" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)" %}} (where 12 is the average commute and 4 is the variance) on other days.
 
 ### Question 8
 
@@ -119,7 +119,7 @@ You have access to information from a child health survey, which covers  1,000 
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote \\(\overline{Y_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\overline{Y_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group, and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote \\(\overline{Y_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\overline{Y_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group, and \\(\sigma^2_C=2.3^2\\){{% resource_link "af08cbdb-00b1-4841-b71f-67ab4dcc2a14" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)" %}} the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
@@ -157,7 +157,7 @@ She runs the following regression:
 
 \\(Y_{it}=\beta_0+\beta_{1}TEA_i+\beta_{2}POST_i+\beta_{3}POST_i\ast{TEA_i}+\epsilon_{it}\\)
 
-## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
+## {{% resource_link "f6b39510-e249-43bd-a4bb-3162e965815a" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)" %}}Question 17
 
 This question has 3 parts:
 
@@ -171,7 +171,7 @@ True or false? Instead of including the TEA dummy, she could include one dummy f
 
 ## Long Question 6 - More on Flowers in China
 
-[Download the data set](https://studio.mitxonline.mit.edu/assets/courseware/v1/bbf68069ed2763d0bf83506acd468a88/asset-v1:MITxT+14.310x+3T2021+type@asset+block/qian.csv) used in Qian's paper (qian.csv). The data contains the following variables:
+{{% resource_link "a770296e-14bf-4de4-ba69-7f46ab2d09a9" "Download the data set" %}} used in Qian's paper (qian.csv). The data contains the following variables:
 
 ●     **admin**: an ID for each region in China.
 
