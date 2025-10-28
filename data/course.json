@@ -32,9 +32,9 @@
     "website": "data-analysis-for-social-scientists"
   },
   "course_title": "Data Analysis for Social Scientists",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "This course introduces methods for harnessing data to answer questions of\u00a0cultural, social, economic, and policy interest. We will start with essential\u00a0notions of probability and statistics. We will proceed to cover techniques in\u00a0modern data analysis: regression and econometrics, design of experiments, randomized control trials (and A/B testing), machine learning, and data visualization.\n\nWe will illustrate these concepts with applications drawn from real-world examples and frontier research. Finally, we will provide instruction on\u00a0the use of the statistical package R, and opportunities for students to perform self-directed empirical analyses.\n\n**MITx Online**\n\nThis course draws materials from *14.310x Data Analysis for Social Scientists*, which is part of the MicroMasters Program in Data, Economics, and Design of Policy offered by MITx Online. The MITx Online course is entirely free to audit, though learners have the option to pay a fee, which is based on the learner\u2019s ability to pay, to take the proctored exam and earn a course certificate. To access that course, create an MITx Online account and enroll in the course [14.310x Data Analysis for Social Scientists](https://mitxonline.mit.edu/courses/course-v1:MITxT+14.310x/?utm_medium=ocw-website&utm_source=ocw-website&utm_campaign=dedp&utm_content=ocw-page-data-analysis-for-social-scientists).",
+  "course_description": "This course introduces methods for harnessing data to answer questions of\u00a0cultural, social, economic, and policy interest. We will start with essential\u00a0notions of probability and statistics. We will proceed to cover techniques in\u00a0modern data analysis: regression and econometrics, design of experiments, randomized control trials (and A/B testing), machine learning, and data visualization.\n\nWe will illustrate these concepts with applications drawn from real-world examples and frontier research. Finally, we will provide instruction on\u00a0the use of the statistical package R, and opportunities for students to perform self-directed empirical analyses.\n\n**MITx Online**\n\nThis course draws materials from *14.310x Data Analysis for Social Scientists*, which is part of the MicroMasters Program in Data, Economics, and Design of Policy offered by MITx Online. The MITx Online course is entirely free to audit, though learners have the option to pay a fee, which is based on the learner\u2019s ability to pay, to take the proctored exam and earn a course certificate. To access that course, create an MITx Online account and enroll in the course {{% resource_link \"9ef7bee9-1d20-4d2e-b376-cbfc3cc165ce\" \"14.310x Data Analysis for Social Scientists\" %}}.",
   "department_numbers": [
     "14"
   ],
@@ -44,7 +44,6 @@
     "content": "0b6ded66-cb3b-481d-a0be-516a8141e22c",
     "website": "data-analysis-for-social-scientists"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Lecture Videos",
